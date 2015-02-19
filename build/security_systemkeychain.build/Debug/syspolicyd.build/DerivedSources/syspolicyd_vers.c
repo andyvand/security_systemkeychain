@@ -1,0 +1,1 @@
+ const unsigned char syspolicydVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:syspolicyd  PROJECT:security_systemkeychain-" "\n"; const double syspolicydVersionNumber __attribute__ ((used)) = (double)0.;

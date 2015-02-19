@@ -1,0 +1,1 @@
+ const unsigned char systemkeychainVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:systemkeychain  PROJECT:security_systemkeychain-" "\n"; const double systemkeychainVersionNumber __attribute__ ((used)) = (double)0.;

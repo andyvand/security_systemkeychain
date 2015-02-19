@@ -1,0 +1,1 @@
+ const unsigned char GatekeeperVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Gatekeeper  PROJECT:security_systemkeychain-" "\n"; const double GatekeeperVersionNumber __attribute__ ((used)) = (double)0.;

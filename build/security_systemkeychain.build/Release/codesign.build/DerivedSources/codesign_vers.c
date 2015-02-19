@@ -1,0 +1,1 @@
+ const unsigned char codesignVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:codesign  PROJECT:security_systemkeychain-" "\n"; const double codesignVersionNumber __attribute__ ((used)) = (double)0.;
